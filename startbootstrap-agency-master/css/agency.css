@@ -73,13 +73,13 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #36b5fe;
+  border-color: #36b5fe;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #36b5fe !important;
+  border-color: #36b5fe !important;
   color: white;
 }
 
@@ -89,7 +89,7 @@ section h3.section-subheading {
 }
 
 ::selection {
-  background: #fed136;
+  background: #36b5fe;
   text-shadow: none;
 }
 
@@ -117,7 +117,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  color: #fed136;
+  color: #36b5fe;
   font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
@@ -169,7 +169,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/maldives.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -243,7 +243,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(254, 209, 54, 0.9);
+  background: #36b5fe;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -589,7 +589,7 @@ header.masthead .intro-text .intro-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../img/map-image.png");
+  background-image: url("../img/rockybeach.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
