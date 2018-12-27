@@ -60,9 +60,15 @@ section h3.section-subheading {
   font-style: italic;
 }
 
+.section-subheading2 {
+  font-size: 26px;
+  text-align: center;
+}
+
 .icons {
-  display: inline;
-  padding: 0 50px;
+  display: block;
+  margin-left: 100px;
+  margin-right: auto;
   
   
   
