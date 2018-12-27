@@ -14,15 +14,15 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #6f90ce;
 }
 
 a:hover {
-  color: #fec503;
+  color: #6f90ce;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #6f90ce !important;
 }
 
 h1,
@@ -36,7 +36,7 @@ h6 {
 }
 
 section {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 section h2.section-heading {
@@ -62,7 +62,12 @@ section h3.section-subheading {
 
 .section-subheading2 {
   font-size: 26px;
+  color: white;
+  border: 7px solid #e9ecef;
+  border-radius: 15px;
   text-align: center;
+  width: 100%;
+  background: #6f90ce;
 }
 
 .icons {
@@ -91,13 +96,13 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #6f90ce;
+  border-color: #6f90ce;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #6f90ce !important;
+  border-color: #6f90ce !important;
   color: white;
 }
 
@@ -107,7 +112,7 @@ section h3.section-subheading {
 }
 
 ::selection {
-  background: #fed136;
+  background: #6f90ce;
   text-shadow: none;
 }
 
@@ -130,17 +135,17 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #fed136;
+  background-color: #6f90ce;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand {
-  color: #fed136;
+  color: #134ebd;
   font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #6f90ce;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -153,7 +158,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #6f90ce;
 }
 
 @media (min-width: 992px) {
@@ -261,7 +266,7 @@ header.masthead .intro-text .intro-heading {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(254, 209, 54, 0.9);
+  background: #6f90ce;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -434,7 +439,7 @@ header.masthead .intro-text .intro-heading {
   position: relative;
   float: right;
   width: 100%;
-  padding: 0 20px 0 100px;
+  padding: 0 20px 0 50px;
   text-align: left;
 }
 
@@ -458,12 +463,12 @@ header.masthead .intro-text .intro-heading {
   left: 0;
   width: 80px;
   height: 80px;
-  margin-left: 0;
+  margin-left: 50px;
   text-align: center;
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #6f90ce;
 }
 
 .timeline > li .timeline-image h4 {
@@ -634,7 +639,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #fed136;
+  border-color: #6f90ce;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -698,9 +703,9 @@ ul.social-buttons li a {
   color: white;
   border-radius: 100%;
   outline: none;
-  background-color: #212529;
+  background-color: #134ebd;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #6f90ce;
 }
