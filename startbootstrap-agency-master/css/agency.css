@@ -60,6 +60,14 @@ section h3.section-subheading {
   font-style: italic;
 }
 
+.icons {
+  display: inline;
+  padding: 0 50px;
+  
+  
+  
+}
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0;

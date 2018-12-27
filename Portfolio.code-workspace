@@ -4,5 +4,9 @@
 			"path": "startbootstrap-agency-master"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"devicon"
+		]
+	}
 }
