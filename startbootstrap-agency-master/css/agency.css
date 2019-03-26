@@ -403,6 +403,23 @@ header.masthead .intro-text .intro-heading {
   background-color: #212529;
 }
 
+.about-image {
+  display: flex;
+  justify-content: left;
+}
+.aboutme {
+  padding-left: 60px;
+  margin-top: 100px;
+  text-align: center;
+}
+.rounded-circle {
+  overflow: hidden;
+  border: 1px solid white;
+  height: 200px;
+  width: 200px;
+}
+
+/*
 .timeline {
   position: relative;
   padding: 0;
@@ -474,12 +491,12 @@ header.masthead .intro-text .intro-heading {
 .timeline > li .timeline-image h4 {
   font-size: 10px;
   line-height: 14px;
-  margin-top: 12px;
-}
-
+  margin-top: 8px;
+}*/
+/*
 .timeline > li.timeline-inverted > .timeline-panel {
   float: right;
-  padding: 0 20px 0 100px;
+  padding: 0 20px 0 20px;
   text-align: left;
 }
 
@@ -587,8 +604,8 @@ header.masthead .intro-text .intro-heading {
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 100px 20px 20px;
   }
-}
-
+}*/
+/*
 .team-member {
   margin-bottom: 50px;
   text-align: center;
@@ -608,7 +625,7 @@ header.masthead .intro-text .intro-heading {
 
 .team-member p {
   margin-top: 0;
-}
+}*/
 
 section#contact {
   background-color: #212529;
