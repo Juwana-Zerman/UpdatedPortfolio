@@ -70,6 +70,7 @@ section h3.section-subheading {
   background: #6f90ce;
 }
 
+
 .icons {
   display: block;
   margin-left: 100px;
@@ -405,7 +406,16 @@ header.masthead .intro-text .intro-heading {
 
 .about-image {
   display: flex;
-  justify-content: left;
+  justify-content: center;
+}
+
+.about-body {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+
 }
 .aboutme {
   padding-left: 60px;
@@ -414,9 +424,24 @@ header.masthead .intro-text .intro-heading {
 }
 .rounded-circle {
   overflow: hidden;
-  border: 1px solid white;
   height: 200px;
   width: 200px;
+  display: inline-flex;
+  justify-content: center;
+}
+#promo {
+  
+  margin: 10px 400px 10px 400px;
+  padding-top: 35px;
+  background: #6f90ce;
+  color: white;
+  height: 225px;
+  width: 225px;
+  border-radius: 200px;
+  border: 7px solid #d8e0e9;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
 }
 
 /*
