@@ -1,6 +1,6 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
+    "title": "Juwana's Portfolio",
+    "name": "updated-portfolio",
     "version": "5.0.3",
     "description": "Agency is a one page HTML theme for Bootstrap.",
     "keywords": [
@@ -11,10 +11,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
+    "homepage": "https://jzerman2018.github.io/UpdatedPortfolio/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/JZerman2018/UpdatedPortfolio/issues"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
@@ -23,7 +22,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/JZerman2018/UpdatedPortfolio.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.6.3",
