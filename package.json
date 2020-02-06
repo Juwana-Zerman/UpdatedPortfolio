@@ -1,0 +1,45 @@
+{
+  "title": "Juwana's Portfolio",
+  "name": "updatedportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15",
+    "lodash.mergewith": "^4.6.2",
+    "lodash.template": "^4.5.0",
+    "mixin-deep": "^2.0.1",
+    "set-value": "^3.0.1",
+    "@fortawesome/fontawesome-free": "5.6.3",
+    "bootstrap": "4.2.1",
+    "jquery": "3.3.1",
+    "jquery.easing": "^1.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "6.0.0",
+    "gulp-clean-css": "4.0.0",
+    "gulp-header": "2.0.7",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "author": "",
+  "contributors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JZerman2018/UpdatedPortfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JZerman2018/UpdatedPortfolio/issues"
+  },
+  "homepage": "https://github.com/JZerman2018/UpdatedPortfolio"
+}
