@@ -2,5 +2,6 @@
     "cSpell.words": [
         "amet",
         "consectetur"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
